@@ -1,0 +1,16 @@
+#Sun Jun 06 21:05:03 JST 2021
+path.4=classes2.dex
+path.3=4/classes.dex
+path.2=13/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=/Users/vanshu/Documents/Github/JetPackComposeSample/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.3=/Users/vanshu/Documents/Github/JetPackComposeSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.2=/Users/vanshu/Documents/Github/JetPackComposeSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.1=/Users/vanshu/Documents/Github/JetPackComposeSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/vanshu/Documents/Github/JetPackComposeSample/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex
